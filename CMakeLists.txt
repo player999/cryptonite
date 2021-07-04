@@ -34,7 +34,7 @@ add_subdirectory(src/cryptoniteTestUtils)
 add_subdirectory(src/cryptoniteUtest)
 add_subdirectory(src/cryptoniteAtest)
 add_subdirectory(src/cryptonitePtest)
-add_subdirectory(src/cryptoniteXtest)
+#add_subdirectory(src/cryptoniteXtest)
 add_subdirectory(src/cryptoniteExample)
 
 add_subdirectory(src/asn1Utest)
@@ -43,3 +43,4 @@ add_subdirectory(src/pkixTestUtils)
 add_subdirectory(src/pkixUtest)
 add_subdirectory(src/storageUtest)
 add_subdirectory(src/pkiExample)
+

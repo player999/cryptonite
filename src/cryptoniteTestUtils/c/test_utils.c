@@ -18,6 +18,10 @@
 #include "test_utils.h"
 #include "rs.h"
 
+size_t data_size_byte;
+unsigned int THREADS_NUM;
+unsigned int LOOP_NUM;
+
 size_t error_count = 0;
 int success_count = 0;
 size_t level_num = 0;
